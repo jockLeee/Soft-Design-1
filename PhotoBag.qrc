@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="No.1">
+    <file>设置.jpg</file>
+    <file>blue.jpg</file>
+    <file>hlg.jpg</file>
+    <file>R-C.png</file>
+    <file>parameter.jpg</file>
+  </qresource>
+</RCC>
